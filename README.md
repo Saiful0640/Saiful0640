@@ -22,7 +22,6 @@ Skills: Java / Spring Boot/ Angular/ JS
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saiful0640&show_icons=true)  
 
