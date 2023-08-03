@@ -21,7 +21,6 @@ Skills: Java / Spring Boot/ Angular/ JS
 
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saiful0640)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saiful0640)](https://github.com/anuraghazra/github-readme-stats)
 
