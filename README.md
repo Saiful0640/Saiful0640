@@ -28,8 +28,4 @@ Skills: Java / Spring Boot/ Angular/ JS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Saiful0640)  
 
-![GitHub metrics](https://metrics.lecoq.io/Saiful0640)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Saiful0640)  
-
-![Profile views](https://gpvc.arturio.dev/Saiful0640)  
